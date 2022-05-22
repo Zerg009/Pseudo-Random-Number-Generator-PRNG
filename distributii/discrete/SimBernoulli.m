@@ -1,5 +1,5 @@
 % sim. var. Bernoulli
-function y = Bernoulli(p)
+function y = SimBernoulli(p)
 	u = rand;
 	if u < p 
         y = 1;
