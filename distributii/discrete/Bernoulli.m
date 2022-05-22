@@ -2,8 +2,8 @@
 function y = Bernoulli(p)
 	u = rand;
 	if u < p 
-        return 1;
+        y = 1;
 	else 
-        return 0;
-    end;
+        y = 0;
+    end
 end
