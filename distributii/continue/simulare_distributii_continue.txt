@@ -1,5 +1,5 @@
 // simularea var. uniforme pe [a,b)
-function Unif(a,b)
+function SimUnif(a,b)
 	u = urand();
 	return a + (b-a)*u;
 end function
@@ -7,7 +7,7 @@ end function
 
 
 // simularea prin metoda inversarii
-function MetodaInversarii()
+function SimMetodaInversarii()
 	u = urand();
 	x = F^-1(u);
 	return x;
@@ -16,7 +16,7 @@ end function
 
 
 // simularea var. exponentiale
-function SimulExp(theta)
+function SimExp(theta)
 	u = urand();
 	x = -theta * log(1-u);
 	return x;
