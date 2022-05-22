@@ -1,0 +1,62 @@
+// sim. var. Bernoulli
+function Bernoulli(p)
+	u = urand();
+	if (u < p) return (1);
+	else return (0);
+end function
+
+
+
+// sim. var. unif. distrib. discret
+// pe {0, 1, 2, ..., n-1}
+function SimDiscretU(n)
+	u = urand();
+	k = int(n*u);
+	return k;
+endf unction
+
+
+
+// extragerea unui nr. random 
+// din M = {m, ..., n}
+function randint(m, n)
+	u = urand();
+	k = int((n-m+1)*u);	// k in {0, ..., n}
+	return (k+m);
+end function
+
+
+
+// sim. var. aleat. discrete de distrib. generala neuniforma
+function SimDiscret(x, p, n)	// x, p = tablouri
+	k = 0;
+	F = p0;
+	u = urand();
+	while (u >= F) {
+		k = k + 1;
+		F = F + pk;
+	}
+
+	return (xk);
+end function
+
+
+
+// simularea var. geom. (1)
+function Geom1(p)
+	k = 0;
+	do {
+		u = urand();
+		k = k + 1;
+	} while (u > p);
+	return k;
+end function
+
+
+
+// simularea var. geom. (2)
+function Geom2(p)
+	u = urand();
+	x = int(log(1-u)/log(1-p)) + 1;
+	return x;
+end function
