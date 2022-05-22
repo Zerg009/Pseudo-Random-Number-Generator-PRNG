@@ -13,7 +13,7 @@ function SimDiscretU(n)
 	u = urand();
 	k = int(n*u);
 	return k;
-endf unction
+end function
 
 
 
