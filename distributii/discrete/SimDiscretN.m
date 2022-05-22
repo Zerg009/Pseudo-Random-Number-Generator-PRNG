@@ -6,13 +6,13 @@ function xk = SimDiscretN(x, p, n)	% x, p = tablouri
     % verificarea conditiilor
     for i = 1 : numel(x)-1
         if x(i) > x(i+1)
-            printf("Eroare! Nu se respecta ordinea crescatoare a valorilor lui x !\n");
+            fprintf("Eroare! Nu se respecta ordinea crescatoare a valorilor lui x !\n");
             return;
         end
     end
     
     if sum(p) ~= 1
-        printf("Eroare! Suma probabilitatilor nu este 1 !\n");
+        fprintf("Eroare! Suma probabilitatilor nu este 1 !\n");
         return;
     end
 
