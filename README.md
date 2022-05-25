@@ -10,3 +10,10 @@ Project to show some types of pseudo random ways of generating numbers
 7. Pareto distribution (alpha, beta)
 8. Point in rectangle(uniform distribution) (a,b x c,d)
 9. ???
+
+
+x-urile la neuniforma trebuie sa fie crescatoare
+labelurile la ploturi de schimbat
+add error label
+non-uniform nu lucreaza probabilitatile
+preallocating for speed
