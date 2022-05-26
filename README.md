@@ -12,7 +12,7 @@ Project to show some types of pseudo random ways of generating numbers
 9. ???
 
 
-x-urile la neuniforma trebuie sa fie crescatoare
+x-urile la neuniforma trebuie csa fie crescatoare
 labelurile la ploturi de schimbat
 add error label
 non-uniform nu lucreaza probabilitatile
