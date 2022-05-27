@@ -9,11 +9,10 @@ Project to show some types of pseudo random ways of generating numbers
 6. Exponential distribution (theta)
 7. Pareto distribution (alpha, beta)
 8. Point in rectangle(uniform distribution) (a,b x c,d)
-9. ???
 
 
-x-urile la neuniforma trebuie csa fie crescatoare
-labelurile la ploturi de schimbat
-add error label
-non-uniform nu lucreaza probabilitatile
-preallocating for speed
+a.x-urile la neuniforma trebuie csa fie crescatoare
+b.labelurile la ploturi de schimbat
+c.add error label
+d.non-uniform nu lucreaza probabilitatile
+e.preallocating for speed
