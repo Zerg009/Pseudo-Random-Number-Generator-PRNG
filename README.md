@@ -12,7 +12,9 @@ Project to show some types of pseudo random ways of generating numbers
 
 
 - x-urile la neuniforma trebuie csa fie crescatoare
-- labelurile la ploturi de schimbat
+- labelurile la ploturi de schimbat - done
 - add error label
 - non-uniform nu lucreaza probabilitatile
 - preallocating for speed
+- suma de p nu lucreaza
+- conditia "a<b" "c<d"
