@@ -16,5 +16,5 @@ Project to show some types of pseudo random ways of generating numbers
 - conditia a\<b c\<d - done
 - add error label - done
 - preallocating for speed - done
-- non-uniform nu lucreaza probabilitatile 
-- suma de p nu lucreaza - done - ? 
+- non-uniform nu lucreaza probabilitatile  - done
+- suma de p nu lucreaza - done
