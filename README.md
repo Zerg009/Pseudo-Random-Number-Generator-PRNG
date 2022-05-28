@@ -11,10 +11,10 @@ Project to show some types of pseudo random ways of generating numbers
 8. Point in rectangle(uniform distribution) (a,b x c,d)
 
 
-- x-urile la neuniforma trebuie csa fie crescatoare
+- x-urile la neuniforma trebuie csa fie crescatoare - done
 - labelurile la ploturi de schimbat - done
-- add error label
-- non-uniform nu lucreaza probabilitatile
-- preallocating for speed
-- suma de p nu lucreaza
-- conditia "a<b" "c<d"
+- conditia a\<b c\<d - done
+- add error label - done
+- preallocating for speed - done
+- non-uniform nu lucreaza probabilitatile 
+- suma de p nu lucreaza - done - ? 
