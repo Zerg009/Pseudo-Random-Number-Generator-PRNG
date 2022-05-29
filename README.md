@@ -11,7 +11,7 @@ Project to show some types of pseudo random ways of generating numbers
 8. Point in rectangle(uniform distribution) (a,b x c,d)
 
 # Distribution_Simulator
-< Stanislav Semenenco, Alexandru Varatic >
+<Stanislav Semenenco, Alexandru Varatic 
 
 An app that simulates discrete and continuous probability variables, density and cumulative distribution functions.
 
