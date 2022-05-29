@@ -1,17 +1,5 @@
-# Pseudo-Random-Number-Generator(PRNG)
-Project to show some types of pseudo random ways of generating numbers
-
-1. Bernoulli distribution (p)
-2. Binomial distribution (n,p)
-3. Geometric distribution (p)
-4. Uniform distribution (a,b)
-5. Non-uniform distribution (X,P)
-6. Exponential distribution (theta)
-7. Pareto distribution (alpha, beta)
-8. Point in rectangle(uniform distribution) (a,b x c,d)
-
-# Distribution_Simulator
-<Stanislav Semenenco, Alexandru Varatic 
+## Distribution_Simulator or Pseudo-Random-Number-Generator(PRNG)
+> Authors: Stanislav Semenenco, Alexandru Varatic 
 
 An app that simulates discrete and continuous probability variables, density and cumulative distribution functions.
 
