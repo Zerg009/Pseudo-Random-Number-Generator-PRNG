@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pseudo-Random-Number-Generator(PRNG)
 Project to show some types of pseudo random ways of generating numbers
 
@@ -12,6 +13,10 @@ Project to show some types of pseudo random ways of generating numbers
 
 # Distribution_Simulator
 < Stanislav Semenenco, Alexandru Varatic >
+=======
+## Distribution_Simulator or Pseudo-Random-Number-Generator(PRNG)
+> Authors: Stanislav Semenenco, Alexandru Varatic 
+>>>>>>> main
 
 An app that simulates discrete and continuous probability variables, density and cumulative distribution functions.
 
