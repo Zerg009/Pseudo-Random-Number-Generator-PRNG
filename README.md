@@ -8,7 +8,7 @@ Project to show some types of pseudo random ways of generating numbers
 5. Non-uniform distribution (X,P)
 6. Exponential distribution (theta)
 7. Pareto distribution (alpha, beta)
-8. Point in rectangle(uniform distribution) (a,b x c,d)
+8. Random uniform vector simulation (Point in rectangle) (a,b x c,d)
 
 # Distribution_Simulator
 < Stanislav Semenenco, Alexandru Varatic >
