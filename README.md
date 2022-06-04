@@ -12,7 +12,6 @@ Project to show some types of pseudo random ways of generating numbers
 9. Normal distribution
 
 # Distribution_Simulator
-< Stanislav Semenenco, Alexandru Varatic >
 ## Distribution_Simulator or Pseudo-Random-Number-Generator(PRNG)
 > Authors: Stanislav Semenenco, Alexandru Varatic 
 
