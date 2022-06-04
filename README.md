@@ -9,6 +9,7 @@ Project to show some types of pseudo random ways of generating numbers
 6. Exponential distribution (theta)
 7. Pareto distribution (alpha, beta)
 8. Random uniform vector simulation (rectangle, circle, ellipse)
+9. Normal distribution
 
 # Distribution_Simulator
 < Stanislav Semenenco, Alexandru Varatic >
