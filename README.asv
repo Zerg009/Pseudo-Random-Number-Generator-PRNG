@@ -17,4 +17,4 @@ Project to show some types of pseudo random ways of generating numbers
 
 An app that simulates discrete and continuous probability variables, density and cumulative distribution functions.
 
-Simulates : <br> <ul> <li>Bernoulli</li><li> Binomial</li><li> Geometric</li><li> Uniform</li><li> Non-uniform</li><li>Random uniform vector</li><li>Exponential </li><li>Pareto</li><li>Normal</ul>
+Simulates : <br> <ul> <li>Bernoulli</li><li> Binomial</li><li> Geometric</li><li> Uniform</li><li> Non-uniform</li><li>Random uniform vectors </li><li>Exponential </li><li>Pareto</li><li>Normal</ul>
