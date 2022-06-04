@@ -11,8 +11,7 @@ Project to show some types of pseudo random ways of generating numbers
 8. Random uniform vector simulation (rectangle, circle, ellipse)
 9. Normal distribution
 
-# Distribution_Simulator
-## Distribution_Simulator or Pseudo-Random-Number-Generator(PRNG)
+# Distribution_Simulator or Pseudo-Random-Number-Generator(PRNG)
 > Authors: Stanislav Semenenco, Alexandru Varatic 
 
 An app that simulates discrete and continuous probability variables, density and cumulative distribution functions.
